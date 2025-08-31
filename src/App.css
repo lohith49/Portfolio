@@ -1,0 +1,18 @@
+.App {
+  min-height: 100vh;
+  transition: all 0.3s ease;
+}
+
+.App.dark {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+}
+
+.App.light {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+}
+
+main {
+  min-height: 100vh;
+}
