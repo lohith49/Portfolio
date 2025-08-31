@@ -4,8 +4,6 @@ A modern, responsive portfolio website showcasing the work and achievements of L
 
 ## 👨‍💻 About Me
 
-- **Education**: B.Tech CSE at IIT Roorkee (CGPA: 7.767)
-- **Achievements**: JEE Advanced Rank 1114, KVPY Fellowship
 - **Experience**: Former VISA Intern
 - **Competitive Programming**: Codeforces (lohi_49), CodeChef (junkie_cheff)
 - **Interests**: Machine Learning, Flutter Development, System Design
@@ -132,13 +130,7 @@ portfolio/
 - Lazy loading with Intersection Observer
 - Minimal bundle size with Vite
 
-## 📝 License
 
-This project is open source and available under the [MIT License](LICENSE).
-
-## 🤝 Contributing
-
-Feel free to fork this project and customize it for your own portfolio!
 
 ---
 
